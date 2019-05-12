@@ -6,7 +6,6 @@
 Jdk1.8、Spring、SpringMVC、Mybatis、Mysql、Redis、Restful
 
 ## 高并发优化分析
-
 （红色部分标识可能出现高并发的地方）
 
 ![项目流程图](http://pr4gg6olg.bkt.clouddn.com/seckill4-1%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B.png)
